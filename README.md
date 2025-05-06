@@ -59,6 +59,40 @@ Predicting customer churn is critical for telecom companies aiming to retain val
 
 
 
+## ⚙️ Requirements
+
+- Python 3.8+
+- pandas
+- numpy
+- scikit-learn
+- imbalanced-learn
+- matplotlib
+- seaborn
+
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Please fork the repository and submit a pull request.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+## 📬 Contact
+
+For questions or feedback, please open an issue or contact [maleshanemorolong@example.com].
+
+---
+
+*Empowering telecoms with data-driven retention strategies!*
+
+
 
 ---
 
